@@ -1,0 +1,8 @@
+{
+  "name": "com.veryfreestyle.unity.litjson",
+  "version": "0.19.0",
+  "displayName": "LitJson",
+  "description": "LitJson JSON library for Unity",
+  "unity": "2021.3",
+  "type": "library"
+}
